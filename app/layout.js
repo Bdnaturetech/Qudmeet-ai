@@ -8,7 +8,7 @@ config.autoAddCss = false;
 
 export const metadata = {
   title: "Quddus AI portfolio",
-  description: "QudMeet Azure AI Porfolio",
+  description: "QudMeet Azure AI Porfolios",
 };
 
 export default function RootLayout({ children }) {
